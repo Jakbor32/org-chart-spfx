@@ -18,9 +18,12 @@ A SharePoint Online web part that visualizes organizational structure using Micr
 - set distance from other tiles
 - enable/disable show photos of people
 - enable/disable show titles of people
-- change tile bacgroundcolor
+- change tile backgroundcolor + floating on-screen color picker
 - change color of the border of tiles belonging to the same supervisor
 - enable/disable clicking on the tile - takes you to the person's profile
+- node height slider
+- side panel with account info
+- fullscreen centering + preserved tree state 
 
 ## How to Install
 
@@ -59,9 +62,10 @@ A SharePoint Online web part that visualizes organizational structure using Micr
 
 ## Component Version
 
-| Version   | Release date |
-| --------- | ------------ |
-| `1.0.0.0` | 2026-03-08   |
+| Version   | Release date | Notes |
+| --------- | ------------ | ----- |
+| `1.1.0.0` | 2026-03-12   | Side panel, node height slider, on-screen color picker, fullscreen centering, search improvements, bug fixes |
+| `1.0.0.0` | 2026-03-08   | Initial release |
 
 ## License
 
