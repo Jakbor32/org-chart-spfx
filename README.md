@@ -23,7 +23,7 @@ A SharePoint Online web part that visualizes organizational structure using Micr
 - enable/disable clicking on the tile - takes you to the person's profile
 - node height slider
 - side panel with account info
-- fullscreen centering + preserved tree state 
+- fullscreen centering + preserved tree state
 
 ## How to Install
 
@@ -62,10 +62,11 @@ A SharePoint Online web part that visualizes organizational structure using Micr
 
 ## Component Version
 
-| Version   | Release date | Notes |
-| --------- | ------------ | ----- |
-| `1.1.0.0` | 2026-03-12   | Side panel, node height slider, on-screen color picker, fullscreen centering, search improvements, bug fixes |
-| `1.0.0.0` | 2026-03-08   | Initial release |
+| Version   | Release date | Notes                                                                                                                |
+| --------- | ------------ | -------------------------------------------------------------------------------------------------------------------- |
+| `1.2.0.0` | 2026-03-18   | Export chart to PDF/PNG, live search suggestions, F11 fullscreen, path highlight from user to root, improved preview |
+| `1.1.0.0` | 2026-03-12   | Side panel, node height slider, on-screen color picker, fullscreen centering, search improvements, bug fixes         |
+| `1.0.0.0` | 2026-03-08   | Initial release                                                                                                      |
 
 ## License
 
